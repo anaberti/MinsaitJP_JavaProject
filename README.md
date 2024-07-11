@@ -1,5 +1,5 @@
 markdown
-Copiar código
+
 # PeoplePlus
 
 [![Build Status](https://img.shields.io/github/workflow/status/anaberti/MinsaitJP_JavaProject/Build)](https://github.com/anaberti/MinsaitJP_JavaProject/actions)
